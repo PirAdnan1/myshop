@@ -39,7 +39,7 @@ function Hero() {
             Healths & Beauty
           </span>
         </div>
-        <div className="flex order-1 md:order-2 gap-10 md:gap-0 md:flex-row items-center bg-black px-24 pb-8 rounded-md">
+        <div className="flex order-1 md:order-2 gap-10 md:gap-0 md:flex-row items-center bg-black lg:px-24 lg:pb-8 rounded-md">
           <div className="flex flex-col text-white">
             <div className="flex items-center gap-1">
               <h3 className="md:text-xl">Man's Series</h3>
