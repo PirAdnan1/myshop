@@ -4,7 +4,7 @@ const CatOne = (props) => (
     xmlns="http://www.w3.org/2000/svg"
     width={56}
     height={56}
-    fill="none"
+    fill="currentColor"
     {...props}
   >
     <g stroke="#000" clipPath="url(#a)">
@@ -30,7 +30,7 @@ const CatOne = (props) => (
     </g>
     <defs>
       <clipPath id="a">
-        <path fill="#fff" d="M0 0h56v56H0z" />
+        <path fill="currentColor" d="M0 0h56v56H0z" />
       </clipPath>
     </defs>
   </svg>

@@ -34,7 +34,7 @@ function Collections() {
 
               <Image src={CollectionTwo} alt="..." />
             </div>
-            <div className="flex flex-col md:flex-row items-start gap-6 mt-6 justify-center">
+            <div className="flex flex-col md:flex-row lg:items-start items-center gap-6 mt-6 lg:justify-center">
               <div className="bg-black flex items-center justify-center w-[270px] relative">
                 <Image src={CollectionThree} className="w-[250px] h-[250px] object-cover" alt="..." />
                 <div className="absolute text-white/85 right-14 bottom-4">
