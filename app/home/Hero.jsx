@@ -46,7 +46,7 @@ function Hero() {
             </div>
 
             <h1 className="max-w-[294px] md:text-3xl ">
-              {"Up to 10% of Voucher"}
+              {"Pir Adnan and Umme Habiba"}
             </h1>
             <div className="flex items-center gap-1 mt-4">
               <span className="underline">Shop Now</span>
